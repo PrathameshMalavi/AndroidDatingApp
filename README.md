@@ -1,12 +1,12 @@
 # AndroidDatingApp
 Dating App with Firebase which match user based on the selected hobbies
 
-Home Page
+Home Page <br />
 <img src="https://user-images.githubusercontent.com/114830029/199147299-9ff312a1-0031-4ce3-858d-af8af7e7d123.png" width="400" height="700">
+<br />
 
 
-
-Match Page
+Match Page <br />
 <img src="https://user-images.githubusercontent.com/114830029/199147307-e28131ff-f123-4766-a16f-260f27238194.png"  width="400" height="700">
 
 
